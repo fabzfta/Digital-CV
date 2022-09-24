@@ -114,7 +114,7 @@ st.write("📈", "Accounting Analyst | Controller Group")
 st.write("12/2021 - 02/2022")
 st.write("""
  - 🔸 Accounting reports generation using Excel and Athena Accounting Software.
- - 🔸 Finance data analisys using excel and Power BI
+ - 🔸 Finance data analisys using excel and Power BI.
  - 🔸 Customer service – direct contact with client.
  - 🔸 Accounting records registration and reconciliation.
 
