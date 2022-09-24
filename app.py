@@ -16,7 +16,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 page_title = "Digital CV - Fabrício de Almeida"
 page_icon = ":fire:"
 name = "Fabrício de Almeida"
-description = """Accountant with experience in tax and management, with a lof of interest for technology and data analysis. Focused and hardworking, my objective is to work to garantee the best decision possible to companies and society, using my data analysis skills.
+description = """Accountant with experience in tax and management, with a lot of interest for technology and data analysis. Focused and hardworking, my goal is work to guarantee the best decision possible to companies and society, using my data analysis skills.
 
 """
 email = "fabriciotdalmeida@gmail.com"
@@ -68,7 +68,7 @@ st.subheader("Experience & Qualifications")
 st.write("""
     - ✔️ 5 years of experience with Financial Data Analysis
     - ✔️ Strong knowledge in Data Analysis tools as Excel and Python's Data Visualizations tools
-    - ✔️ Good understanding Accounting, Finance and Statistics
+    - ✔️ Good understanding of Accounting, Finance and Statistics
     - ✔️ Excelent team-player and displaying a strong sense of responsibility on every single task
 """)
 
@@ -79,7 +79,7 @@ st.subheader("Hard Skills")
 st.write(
     """
     - 💻 Programming: Python (Scikit-learn,Pandas, Django), SQL, Django
-    - 📊 Data Visulization: Dash, Power BI,Plotly, Excel
+    - 📊 Data Visualization: Dash, Power BI,Plotly, Excel
     - 📚 Databases: Postgres, MySQL, AWS Athena, AWS Redshift
     - 📈 Finance Applications: MB365, Fortes accounting, Athena Accounting, Excel
 
@@ -96,7 +96,7 @@ st.write("📊", "Data Analyst | Bluemetrics")
 st.write("06/2022 - current")
 st.write("""
  - 🔸 Using Finance knowledge, Sisense, SQL and relational database knowledge to analyze Commercial Real Estate data from companies and make it accurate in Sisense Dashboards. 
- - 🔸 Using Python to automate tasks and workflows, as well data conversion   to guarantee its correct pattern for software.
+ - 🔸 Using Python to automate tasks and workflows, as well data conversion to guarantee its correct pattern for software.
  - 🔸 Using Python and Sisense to create internal Dashboards to make the data analysis workflow easier
 
 """)
@@ -104,9 +104,9 @@ st.write("""
 st.write("💻", "Junior Python Developer | MyIA")
 st.write("02/2022 - 06/2022")
 st.write("""
-- 🔸 Used Python to develop technological solutions to companies.
-- 🔸 Used Python to develop Back-End structures in softwares crations, using Django, Dash and Streamlit.
-- 🔸 Used Python and SQL to create and manage companies databases.
+- 🔸 Used Python to develop technological solutions for companies.
+- 🔸 Used Python to develop Back-End structures in software creations, with Django, Dash and Streamlit.
+- 🔸 Used Python and SQL to create and manage software databases.
 
 """)
 
@@ -115,7 +115,7 @@ st.write("12/2021 - 02/2022")
 st.write("""
  - 🔸 Accounting reports generation using Excel and Athena Accounting Software.
  - 🔸 Finance data analisys using excel and Power BI
- - 🔸 Customer service – direct contact with client to make the data suited for him.
+ - 🔸 Customer service – direct contact with client.
  - 🔸 Accounting records registration and reconciliation.
 
 """)
@@ -124,7 +124,7 @@ st.write("📈", "Finance Analyst | Atlantic Bridge")
 st.write("11/2020 - 11/2021")
 st.write("""
  - 🔸 Business financial management using slack and Trello for task management.
- - 🔸 Accounts receivables and payables using MB 365 Software.
+ - 🔸 Account receivables and payables using MB 365 Software.
  - 🔸 Internal Financial Data generation and analysis using Power BI.
 
 """)
